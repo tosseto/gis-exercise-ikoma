@@ -6,7 +6,7 @@
 
 - 本教材のライセンスは，[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)の下で利用可能です．また，本教材の作成にあたっては，[GIS実習オープン教材](https://gis-oer.github.io/gitbook/book/)を参考にしました. © GIS Open Educational Resources WG, CC BY-SA 4.0
 
-![cc-by-sa](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="180">
 
 
 - 本教材で使用する実習データは以下のデータから生駒市の該当部分を抽出・再加工したもので構成されています．個人で自習用に試用する以外での再利用については各データの元のライセンスに従って利用ください．
