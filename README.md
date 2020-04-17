@@ -15,3 +15,5 @@
   - [国土地理院「地理院地図タイル」](https://maps.gsi.go.jp/development/ichiran.html)
 
 - Special Thnaks to [Takuya Sato](https://github.com/takuya310) and Yasumichi Mori
+
+![cover](https://github.com/tosseto/gis-exercise-ikoma/blob/master/cover.png)
