@@ -18,4 +18,4 @@
 
 - Special Thnaks to [Takuya Sato](https://github.com/takuya310) and Yasumichi Mori
 
-![cover](https://github.com/tosseto/gis-exercise-ikoma/blob/master/cover.png)
+<img src="https://github.com/tosseto/gis-exercise-ikoma/blob/master/cover.png" width="480">
